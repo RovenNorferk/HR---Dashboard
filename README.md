@@ -20,17 +20,5 @@ An interactive HR dashboard designed to provide high-level insights and detailed
 ## Reflection
 This project highlights the importance of balancing high-level summaries with detailed analysis. Future enhancements include integrating predictive analytics for strategic HR planning.
 
----
-
-## Dashboard Previews
-
-### Summary View
-![Summary View](icons_images/screenshot_2025-01-03_061940.png)
-
-### Employee Records View
-![Employee Records View](path/to/employee-records-view-image.png)
-
----
-
 ## Tags
 `HR Dashboard` `Data Analytics` `Tableau` `Workforce Insights` `Interactive Visualization`
