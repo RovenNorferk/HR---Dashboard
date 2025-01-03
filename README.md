@@ -25,7 +25,7 @@ This project highlights the importance of balancing high-level summaries with de
 ## Dashboard Previews
 
 ### Summary View
-![Summary View](HR-Dashboard/Icons & Images/Screenshot 2025-01-03 061940.png)
+![Summary View](Icons&Images/Screenshot2025-01-03061940.png)
 
 ### Employee Records View
 ![Employee Records View](path/to/employee-records-view-image.png)
